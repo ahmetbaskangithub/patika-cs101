@@ -6,7 +6,15 @@ namespace cs101
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            // ConsoleProgramlama.ConsoleProgramlamaMetot();
+            // Degiskenler.DegiskenlerMetot();
+            // Operatorler.OperatorlerMetot();
+            // TipDonusumleri.TipDonusumleriMetot();
+            // ExceptionHandling.ExceptionHandlingMetot();
+            // IfElse.IfElseMetot();
+            // SwitchCase.SwitchCaseMetot();
+            ForLoop.ForLoopMetot();
+
         }
     }
 }

@@ -1,10 +1,10 @@
 ﻿using System;
 
-namespace _3_consoleProgramlama
+namespace cs101
 {
-    class Program
+    public class ConsoleProgramlama
     {
-        static void Main(string[] args)
+        public static void ConsoleProgramlamaMetot()
         {
             Console.WriteLine("Hello World!");
             

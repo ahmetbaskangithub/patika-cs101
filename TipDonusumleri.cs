@@ -1,10 +1,10 @@
 ﻿using System;
 
-namespace tipDonusumleri
+namespace cs101
 {
-    class Program
+    public class TipDonusumleri
     {
-        static void Main(string[] args)
+        public static void TipDonusumleriMetot()
         {
             // implicit conversion
             Console.WriteLine("***** implicit conversion *****");

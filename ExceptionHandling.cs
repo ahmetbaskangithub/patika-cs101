@@ -1,10 +1,10 @@
 ﻿using System;
 
-namespace _7_exceptionHandling
+namespace cs101
 {
-    class Program
+    public class ExceptionHandling
     {
-        static void Main(string[] args)
+        public static void ExceptionHandlingMetot()
         {
             try
             {

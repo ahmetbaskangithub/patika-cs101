@@ -1,10 +1,10 @@
 ﻿using System;
 
-namespace operatorler
+namespace cs101
 {
-    class Program
+    public class Operatorler
     {
-        static void Main(string[] args)
+        public static void OperatorlerMetot()
         {
             // atama ve işlemli atama
             int x = 3;

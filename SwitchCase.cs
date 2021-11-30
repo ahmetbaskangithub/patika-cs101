@@ -1,10 +1,10 @@
 using System;
 
-namespace SwitchCase
+namespace cs101
 {
-    class Program
+    public class SwitchCase
     {
-        static void Main(string[] args)
+        public static void SwitchCaseMetot()
         {
             int month = DateTime.Now.Month;
 

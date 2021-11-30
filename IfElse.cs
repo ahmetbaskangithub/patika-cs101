@@ -1,10 +1,10 @@
 using System;
 
-namespace ifElse
+namespace cs101
 {
-    class Program
+    public class IfElse
     {
-        static void Main(string[] args)
+        public static void IfElseMetot()
         {
             int time = DateTime.Now.Hour;
 
