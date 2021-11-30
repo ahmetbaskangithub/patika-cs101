@@ -14,8 +14,9 @@ namespace cs101
             // IfElse.IfElseMetot();
             // SwitchCase.SwitchCaseMetot();
             // ForLoop.ForLoopMetot();
-            //While_Foreach.While_ForeachMetot();
-            Diziler.DizilerMetot();
+            // While_Foreach.While_ForeachMetot();
+            // Diziler.DizilerMetot();
+            ArraySınıfMetotları.ArraySınıfMetot();
         }
     }
 }
