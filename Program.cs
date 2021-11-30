@@ -17,7 +17,8 @@ namespace cs101
             // While_Foreach.While_ForeachMetot();
             // Diziler.DizilerMetot();
             // ArraySınıfMetotları.ArraySınıfMetot();
-            Metotlar.Metot();
+            //Metotlar.Metot();
+            MetotOverloading.Metot();
         }
     }
 }
