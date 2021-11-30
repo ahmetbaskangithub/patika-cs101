@@ -13,7 +13,8 @@ namespace cs101
             // ExceptionHandling.ExceptionHandlingMetot();
             // IfElse.IfElseMetot();
             // SwitchCase.SwitchCaseMetot();
-            ForLoop.ForLoopMetot();
+            // ForLoop.ForLoopMetot();
+            While_Foreach.While_ForeachMetot();
 
         }
     }
